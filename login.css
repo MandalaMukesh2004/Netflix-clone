@@ -1,0 +1,139 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+    
+}
+.header{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("images/header-image.png");
+    width: 100%;
+    height: 150vh;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    padding: 10px 0%;
+}
+.logo{
+    padding: 60px;
+    padding-left: 80px;
+    width:20%;
+}
+
+.login-container {
+    width: 400px;
+    margin: 100px auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.logo {
+    width: 200px;
+    margin-bottom: 30px;
+}
+
+.login-form input {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+    font-size: 16px;
+}
+
+.login-form button {
+    width: 100%;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #e50914;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.login-form button:hover {
+    background-color: #ff3d3d;
+}
+
+.remember-me {
+        margin-bottom: 20px;
+        display: flex;
+        margin-right: 350px;
+        text-align: left;
+        margin-top: 15px;
+        align-items: center;
+    }
+.remember-me input[type="checkbox"] {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+.remember-me .me {
+    margin-left: 5px; 
+    margin-right: 5px; 
+}
+.remember-me label {
+    display: inline; 
+}
+
+.signup {
+    margin-right:170px ;
+    padding-bottom: 50px;
+}
+
+.signup a {
+    color: #e50914;
+}
+.remember-me  {
+    margin-left: 5px;
+}
+.or{
+    margin-top: 10px;
+}
+.new button{
+    width: 100%;
+    padding: -5px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 10px;
+}
+.new a{
+    color: #fff;
+    text-decoration: none;
+    margin-top: 20px;
+
+}
+.new button:hover {
+    background-color: #afa8a8;
+}
+.signup a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+}
+.para {
+    margin-top: 0;
+   
+}
+.signup {
+    margin-bottom: 0;
+}
+.para a{
+    text-decoration: none;
+    color: #5a09f0;
+
+}
+
+
+
