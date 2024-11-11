@@ -24,11 +24,17 @@ bash
 Copy code
 /netflix-clone
 ├── index.html                # Landing page.
+
 ├── login.html                # Login page.
+
 ├── images/                   # Images (e.g., logo, feature images).
+
 ├── styles.css                # Main stylesheet (for general design).
+
 ├── login.css                 # Styles for the login page.
+
 └── README.md                 # This file (documentation).
+
 # How to Use
 Download the Project:
 
