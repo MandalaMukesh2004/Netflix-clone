@@ -16,6 +16,7 @@ Option to remember the user using a checkbox.
 The website works well on both desktop and mobile devices.
 # Technologies Used
 HTML5: Used to structure the webpage content.
+
 CSS3: Used for styling and making the webpage look good.
 
 # File Structure
@@ -35,7 +36,7 @@ Click the "Code" button on the GitHub repository page, then click "Download ZIP"
 
 bash
 Copy code
-git clone https://github.com/yourusername/netflix-clone.git
+git clone https://github.com/MandalaMukesh2004/Netflix-clone/tree/main
 Open the Project:
 
 After downloading or cloning, open the project folder and find the HTML files:
